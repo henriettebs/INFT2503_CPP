@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="oblig1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j8 -f &quot;/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/local/bin/gmake -j8 -f &quot;/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j8 -f &quot;/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j8 -f &quot;/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j8 -f &quot;/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/local/bin/gmake -j8 -f &quot;/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j8 -f &quot;/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j8 -f &quot;/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j8 -f &quot;/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/local/bin/gmake -j8 -f &quot;/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j8 -f &quot;/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j8 -f &quot;/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1b">
+				<Option output="/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug/1b" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j8 -f &quot;/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug/Makefile&quot;  VERBOSE=1 1b"/>
+					<CompileFile command="/usr/local/bin/gmake -j8 -f &quot;/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j8 -f &quot;/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j8 -f &quot;/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1b/fast">
+				<Option output="/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug/1b" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j8 -f &quot;/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug/Makefile&quot;  VERBOSE=1 1b/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j8 -f &quot;/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j8 -f &quot;/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j8 -f &quot;/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1a">
+				<Option output="/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug/1a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j8 -f &quot;/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug/Makefile&quot;  VERBOSE=1 1a"/>
+					<CompileFile command="/usr/local/bin/gmake -j8 -f &quot;/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j8 -f &quot;/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j8 -f &quot;/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1a/fast">
+				<Option output="/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug/1a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j8 -f &quot;/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug/Makefile&quot;  VERBOSE=1 1a/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j8 -f &quot;/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j8 -f &quot;/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j8 -f &quot;/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/filetemp.cpp">
+			<Option target="1b"/>
+		</Unit>
+		<Unit filename="/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/simpletemp.cpp">
+			<Option target="1a"/>
+		</Unit>
+		<Unit filename="/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
