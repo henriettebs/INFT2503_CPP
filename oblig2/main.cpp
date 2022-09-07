@@ -98,8 +98,10 @@ int main() {
             task4();
         else if(answer == 5)
             task5();
-        else
+        else if(answer == 6)
             find_sum(table, 20);
+        else
+            cout << "Quitting program..." << endl;
     }
 
     return 0;
