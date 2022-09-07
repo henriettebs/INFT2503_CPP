@@ -102,13 +102,5 @@ int main() {
             find_sum(table, 20);
     }
 
-
-    //task1();
-    //task4();
-    //task5();
-
-    // Task 6
-
-
     return 0;
 }
