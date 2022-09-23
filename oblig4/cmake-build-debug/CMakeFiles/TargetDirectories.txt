@@ -1,0 +1,3 @@
+/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig4/cmake-build-debug/CMakeFiles/oblig4.dir
