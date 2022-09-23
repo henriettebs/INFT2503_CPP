@@ -26,7 +26,7 @@ public:
 
         add(vbox);  //Add vbox to window
         show_all(); //Show all widgets
-
+        
         auto update_entry = [this] {
             button.set_sensitive(!firstname.get_text().empty() && !lastname.get_text().empty());
         };
