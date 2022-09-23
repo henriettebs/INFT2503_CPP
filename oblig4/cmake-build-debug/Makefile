@@ -117,6 +117,19 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named oblig4_2
+
+# Build rule for target.
+oblig4_2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 oblig4_2
+.PHONY : oblig4_2
+
+# fast build rule for target.
+oblig4_2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/oblig4_2.dir/build.make CMakeFiles/oblig4_2.dir/build
+.PHONY : oblig4_2/fast
+
+#=============================================================================
 # Target rules for targets named oblig4
 
 # Build rule for target.
@@ -153,6 +166,30 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/oblig4.dir/build.make CMakeFiles/oblig4.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+task2.o: task2.cpp.o
+.PHONY : task2.o
+
+# target to build an object file
+task2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/oblig4_2.dir/build.make CMakeFiles/oblig4_2.dir/task2.cpp.o
+.PHONY : task2.cpp.o
+
+task2.i: task2.cpp.i
+.PHONY : task2.i
+
+# target to preprocess a source file
+task2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/oblig4_2.dir/build.make CMakeFiles/oblig4_2.dir/task2.cpp.i
+.PHONY : task2.cpp.i
+
+task2.s: task2.cpp.s
+.PHONY : task2.s
+
+# target to generate assembly for a file
+task2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/oblig4_2.dir/build.make CMakeFiles/oblig4_2.dir/task2.cpp.s
+.PHONY : task2.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -162,9 +199,13 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... oblig4"
+	@echo "... oblig4_2"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... task2.o"
+	@echo "... task2.i"
+	@echo "... task2.s"
 .PHONY : help
 
 
