@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig6/main.cpp
+iostream
+-
+memory
+-
+string
+-
+vector
+-
+functional
+-
+

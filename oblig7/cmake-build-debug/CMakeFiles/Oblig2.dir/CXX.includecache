@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig7/Oppg2/2.cpp
+iostream
+/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig7/Oppg2/iostream
+Set.h
+/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig7/Oppg2/Set.h
+
+/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig7/Oppg2/Set.h
+iostream
+/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig7/Oppg2/iostream
+vector
+-
+

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig7/Oppg1/1a.cpp
+iostream
+-
+Fraction.h
+/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig7/Oppg1/Fraction.h
+
+/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig7/Oppg1/Fraction.cpp
+Fraction.h
+/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig7/Oppg1/Fraction.h
+cmath
+-
+iostream
+-
+sstream
+-
+string
+-
+
+/Users/henriettebs/Documents/Dataingenioer/H22/C++/oblig7/Oppg1/Fraction.h
+

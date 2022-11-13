@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Oblig1b.dir/Oppg1/1b.cpp.o CMakeFiles/Oblig1b.dir/Oppg1/Fraction.cpp.o -o Oblig1b 
